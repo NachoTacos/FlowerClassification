@@ -1,3 +1,5 @@
 tensorflow
 streamlit
 numpy
+pandas
+StringIO
